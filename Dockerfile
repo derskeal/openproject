@@ -26,6 +26,10 @@ RUN curl https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}-linux-x6
 
 RUN apt-get update -qq && \
     DEBIAN_FRONTEND=noninteractive apt-get install -y  \
+    curl \
+    htop \
+    wget \
+    nano \
     postgresql-client \
     poppler-utils \
     unrtf \
