@@ -60,7 +60,7 @@ module OpenProject
       'list-nested-margin'                                   => "30px",
       'header-height'                                        => "55px",
       'header-height-mobile'                                 => "55px",
-      'header-bg-color'                                      => "#1A67A3",
+      'header-bg-color'                                      => "#00bd09",
       'header-home-link-bg'                                  => '#{image-url("logo_openproject_white_big.png") no-repeat 20px 0}',
       'header-border-bottom-color'                           => "$primary-color",
       'header-border-bottom-width'                           => "0",
